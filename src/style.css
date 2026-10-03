@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, sans-serif;
+}
+
+.font-science {
+  font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.06em;
+  transform: scaleX(1.08);
+  text-transform: uppercase;
+}
+
+.font-science-wide {
+  font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+  font-weight: 900;
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+}
